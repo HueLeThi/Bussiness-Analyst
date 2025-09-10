@@ -80,3 +80,6 @@ Cung cấp góc nhìn tổng quan Marketing – Sales – Logistics.
 Giúp ban lãnh đạo đưa ra quyết định dựa trên dữ liệu (data-driven decision).
 
 Hỗ trợ tối ưu chi phí quảng cáo, tăng hiệu quả bán hàng và cải thiện vận hành giao hàng.
+
+LINK DASHBOARD: https://drive.google.com/drive/folders/1IRrs8SyLmCdwnHaItJzd9uu5YJxhy84L
+
