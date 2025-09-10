@@ -14,6 +14,7 @@ DAX: tạo measure, tính toán KPI
 Power Query: làm sạch và xử lý dữ liệu
 
 📈 Nội dung chính của Dashboard
+
 **1. Marketing Analyst**
 
 KPIs chính:
